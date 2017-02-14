@@ -1,0 +1,246 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 7,
+    "versionPublish": "3.11.1",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Car Insurance Malaysia",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "<i>Travel Insurance Malaysia</i>",
+          "text": "Basically, a standard travel insurance malaysia strategy is a mixture item containing different protection advantages, for example, individual mischance advantage, therapeutic and hospitalization advantage, individual obligation advantage and repatriation advantage. Be that as it may, a travel arrangement would accompany highlights that will likewise covers different travel-related hazard and bothers. <br><br>Albeit some may contend that travel protection benefits cover with their current protection scope, (for example, Medical and Hospitalization advantages and Personal Accident Benefits), I would include that such concerns are not supported since premium for travel protection arrangements are not extremely costly. This is particularly valid for incessant explorers, since getting a yearly touring arrangement is a great deal more reasonable than excursion gets ready for particular travel period. <br><br>By getting a travel arrangement on top of your current scope, in case of a therapeutic and hospitalization guarantee, you can assert the costs from your travel strategy and leave your current medicinal scope's farthest point unscathed. Additionally, relatively, most travel insurance malaysia organizations are a great deal more very much furnished with global restorative claims and are more ingenious in helping you with your burdens abroad. Contingent upon the claim sorts, most back up plans would give cashless advantages to facilitate your money related harms. For outpatient medications, cases are ordinarily on repayment premise. I would say, it's essential for the policyholders to instantly contact the guarantors in case of a conceivable claims before any installments are made. <br><br>Most carriers likewise give choices to you to package travel protection scope when you purchase air tickets on the web. In any case, do remember that on the off chance that you buy carrier packaged travel protection bundles, you should experience the claim strategies yourself. On the off chance that you are acquiring your protection approach through experienced travel organizations or travel protection specialists who are as of now experienced and knowledgeable with each alcove and crevice of the claim systems. Today, you can even buy travel insurance malaysia on the web.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">RESERVATION</a> ",
+          "_styles": {
+            ".mbr-section-title I": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-3",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Travel Insurance Reviews",
+          "text": "<br>Travel Protection is a far reaching protection get ready for residential and abroad travel. <br><br>The real advantages of traveling insured include medicinal related advantages, individual mishaps benefits, travel burden and other travel-related advantages and 24-hours overall travel help. <br><br>Also, you can buy our discretionary rider advantage which extends your scope to incorporate your hitting the fairway supplies and your investment in uncommon games, for example, winter sports exercises and scuba plunging. <br><br>Deal with your travel encounters with travel insurance reviews.<br><br>Make the most of your outing with a true serenity by giving you far reaching travel protection scope. You don't need to stress over restorative costs brought about thus of a mishap or ailment, trip cancelations, flight delays, lost stuff since this and more are secured by us. <br><br>Comprehensive coverage<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">We furnish you with scope for abroad medicinal costs, trip cancelation, travel interferences and postponements, crisis therapeutic costs, restorative departure expenses and lost, harmed or deferred stuff.&nbsp;</span><br><br>Medical &amp; personal accident cover<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">You can get up to RM10million for abroad medicinal costs and up to RM300,000 for individual mishaps, contingent upon the item and plan you buy. Our travel help group is accessible if the need arises by telephone to give you crisis travel help, guaranteeing you get proper restorative care.&nbsp;</span><br><br>Trip insurance reviews<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Try not to stress over the expenses of transport and settlement because of your outing cancelation. We'll repay you the non-refundable costs if your trek is wiped out because of particular occasions, beginning up to 60 days before your takeoff date.</span><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-6",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Online Travel Insurance",
+          "text": "On the off chance that you are voyaging abroad, or even locally, taking out travel protection is exceptionally prescribed. <br><br>1. Getting help abroad <br>A great many individuals encounter some sort of inconvenience while holidaying abroad every year. <br><br>Having the correct level of travel protection is essential for vacation. On the off chance that you fall sick or have a mischance while abroad, online travel insurance can guarantee that you get the best nature of care and you can be moved, either back home or to a superior medicinal office, if necessary. <br><br>2. Travel protection furnishes you with insurance from medicinal expenses <br><br>On the off chance that you require medicinal consideration while voyaging, you might be subject for the cost of your treatment on the off chance that you don't have travel protection. <br><br>In numerous nations, restorative treatment for guests can be unbelievably costly; day by day hospitalization costs in Southeast Asia consistently surpass $800; the cost of therapeutic departures from the Assembled States frequently go from $75,000 to $95,000 and, in extraordinary cases, up to $300,000. <br><br>Medicare won't pay or repay you for any restorative costs you bring about abroad. <br><br>3. Travel protection can cover disturbances to your outing <br><br>Its a well known fact that when you go, there is much that is out of your control. Flights can be postponed or you may need to return home if a crisis happens. <br><br>Without travel protection, interruptions to your excursion can wind up costing you a fortune. By and large, you lose the cash you've effectively paid, and need to pay for new appointments as well. <br><br>Many travel protection bundles will cover you for occurrences that are out of your control, with the goal that you don't need to spend your own particular cash if something turns out badly. <br><br>4. You can be repaid for your misfortunes and costs <br><br>In the event that your gear is stolen, lost or harmed abroad, you can wind up essentially out of pocket – and on the off chance that you don't have travel insurance malaysia, you will be in charge of supplanting your things. <br><br>On the off chance that you take out the correct protection, in any case, you can be repaid for your misfortunes and costs, implying that you won't lose cash because of a carrier or inn screw up, or a cheat's wrongdoings.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
+        }
+      ]
+    }
+  }
+}
